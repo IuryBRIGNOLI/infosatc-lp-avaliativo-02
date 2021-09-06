@@ -22,17 +22,16 @@ h = input("Digite um nome de um esporte ")
 esporte = [g,h]
 print(esporte)
 
-listacp = filmes.copy()
-print( "lista copiada",listacp)
+listacp =[]
+print(listacp)
 
-listacp = jogos.copy()
-print( "lista copiada",listacp)
+listacp = filmes
+print(listacp)
 
-listacp = livros.copy()
-print( "lista copiada",listacp)
+listacp = jogos
+print(listacp)
 
-listacp = esporte.copy()
-print( "lista copiada",listacp)
+
 
 
 
